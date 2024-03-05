@@ -1,4 +1,4 @@
-# llm_coder
+# 1C LLM Coder
 
 Бейзлайн для файнтюнинга моделей:
 - codellama/CodeLlama-7b-hf
