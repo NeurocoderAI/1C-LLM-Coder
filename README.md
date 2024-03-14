@@ -6,3 +6,6 @@
 - deepseek-ai/deepseek-coder-6.7b-base
 - chatdb/natural-sql-7b
 - Phind/Phind-CodeLlama-34B-v2
+
+Инструмент для визуального файнтюнинга
+- 1c_coding_visual_finetuning.ipynb
